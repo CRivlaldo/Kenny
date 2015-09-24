@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennyServer", "RobotExtravertServer\KennyServer.csproj", "{0D2E0BD3-0F75-4EC4-8AFF-448962694CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennyInterProcessBridge", "KennyInterProcessBridge\KennyInterProcessBridge.csproj", "{47C26039-05C7-4263-94CD-F71A931D82D9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KennyApp", "KennyApp\KennyApp.fsproj", "{1DC351E3-1521-4FDE-A6BA-029A4E009012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2E0BD3-0F75-4EC4-8AFF-448962694CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2E0BD3-0F75-4EC4-8AFF-448962694CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2E0BD3-0F75-4EC4-8AFF-448962694CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2E0BD3-0F75-4EC4-8AFF-448962694CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C26039-05C7-4263-94CD-F71A931D82D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C26039-05C7-4263-94CD-F71A931D82D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C26039-05C7-4263-94CD-F71A931D82D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C26039-05C7-4263-94CD-F71A931D82D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC351E3-1521-4FDE-A6BA-029A4E009012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC351E3-1521-4FDE-A6BA-029A4E009012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC351E3-1521-4FDE-A6BA-029A4E009012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC351E3-1521-4FDE-A6BA-029A4E009012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RobotExtravertServer\RobotExtravertServer.csproj
+	EndGlobalSection
+EndGlobal

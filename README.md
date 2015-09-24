@@ -1,4 +1,4 @@
-RoboExtravert
+Project Kenny
 =============
 
-Sources of the my robot project
+Sources of an autonomous robot software and firmware

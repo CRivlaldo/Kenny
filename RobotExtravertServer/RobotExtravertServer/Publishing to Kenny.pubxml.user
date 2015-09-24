@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/KennyInterProcessBridge.dll">
+      <publishTime>08/10/2014 20:46:16</publishTime>
+    </File>
+    <File Include="bin/KennyServer.dll">
+      <publishTime>08/10/2014 20:46:17</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/09/2014 21:06:51</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/08/2014 21:07:27</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/10/2014 20:45:30</publishTime>
+    </File>
+    <File Include="WebCamImagePage.aspx">
+      <publishTime>08/09/2014 20:08:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
