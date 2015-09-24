@@ -1,1 +1,0 @@
-﻿<%@ Application Inherits="KennyServer.Global" %>
